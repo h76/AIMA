@@ -1,2 +1,2 @@
 # AIMA
-Python code associated wit our text
+Python code associated with our text book.
